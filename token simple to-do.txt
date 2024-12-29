@@ -1,0 +1,5 @@
+8PeyEQkV7Shc3l4OCSxkWTRyi6EYlJilf1PVvmeSdwvZG9POhR4rJQQJ99AKACAAAAAAAAAAAAAGAZDOuPAU
+Publishing 'simple-to-do.simple-to-do v1.1.0'...
+ INFO  Extension URL (might take a few minutes): https://marketplace.visualstudio.com/items?itemName=simple-to-do.simple-to-do
+ INFO  Hub URL: https://marketplace.visualstudio.com/manage/publishers/simple-to-do/extensions/simple-to-do/hub
+ DONE  Published simple-to-do.simple-to-do v1.1.0.
